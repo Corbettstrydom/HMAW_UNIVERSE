@@ -43,11 +43,13 @@ header p {
     width: 100%; /* Make the image responsive */
     max-width: 500px; /* Limit the max width */
     border-radius: 10px;
+    display:block;
 }
 
 h2 {
     color: #ffcc00; /* Bright color for headings */
     text-align: center;
+    display:block;
 }
 
 p {
